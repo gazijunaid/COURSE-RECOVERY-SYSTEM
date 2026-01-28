@@ -1,0 +1,1 @@
+Course Recovery System (CRS) is a Java GUI-based application developed using Object-Oriented Programming principles to help educational institutions manage students’ course recovery processes. The system supports user management, course recovery planning, eligibility checking & enrolment, academic performance reporting (PDF export), and email notifications.
